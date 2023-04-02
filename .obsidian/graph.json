@@ -6,17 +6,81 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Tynead Kingdom\"",
+      "color": {
+        "a": 1,
+        "rgb": 1345279
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Shiva Islands\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom\"",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm\"",
+      "color": {
+        "a": 1,
+        "rgb": 13193952
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Olimar Republic\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Haford Empire\"",
+      "color": {
+        "a": 1,
+        "rgb": 12247122
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Gunlags Dominion of Dark Omen/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14122521
+      }
+    },
+    {
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Kaspion Empire\"",
+      "color": {
+        "a": 1,
+        "rgb": 7681280
+      }
+    },
+    {
+      "query": "path:Roann/PCs",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
   "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 1.52916666666667,
   "collapse-forces": false,
-  "centerStrength": 0.223958333333333,
+  "centerStrength": 0.182291666666667,
   "repelStrength": 7.08333333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8220621549603887,
+  "scale": 0.19370591717327268,
   "close": false
 }
