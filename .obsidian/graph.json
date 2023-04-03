@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Tynead Kingdom\"",
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1.52916666666667,
   "collapse-forces": false,
-  "centerStrength": 0.182291666666667,
+  "centerStrength": 0,
   "repelStrength": 7.08333333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.19370591717327268,
+  "scale": 0.7355129504232923,
   "close": false
 }
