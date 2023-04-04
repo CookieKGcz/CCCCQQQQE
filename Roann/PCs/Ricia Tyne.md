@@ -16,4 +16,7 @@
 - Dueling and learning the battling technique of the [[Tyne]] family.
 - /
 - Equally likes time alone and time with her adoptive family.
+- /
+- 
 # Background
+/: Tragedy, finding her (prob. in the woods if they are named after her), life in the family -> learning the family technique/swordsmanship/manners. Being recruited (of her own decision) into royal guards -> adventuring for xx years as the final test (prob could take a diff test, but choose *exploration and adventuring* because cringy ass shit mind) :/
