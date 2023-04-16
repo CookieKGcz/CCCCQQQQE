@@ -5,3 +5,4 @@ Consist of:
 - [[The forest of Silent]]
 - [[The Great plain of Omens]]
 - [[The past of Omens]]
+- [[Mornt Academy]]

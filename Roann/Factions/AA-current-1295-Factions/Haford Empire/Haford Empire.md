@@ -1,6 +1,7 @@
 Consist of: 
 - [[Arneg woods]]
 - [[Batun Towers]]
+- [[Batun School]]
 - [[Dor]]
 - [[Vor]]
 - [[Fools Prison]]

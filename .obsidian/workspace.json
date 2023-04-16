@@ -6,7 +6,7 @@
       {
         "id": "7219fcd4abb925c9",
         "type": "tabs",
-        "dimension": 15.027075812274369,
+        "dimension": 38.57982813206694,
         "children": [
           {
             "id": "c50d4e20befddfd0",
@@ -31,13 +31,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c986c84acb4d1366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b7f47ec7ffe7aecc",
         "type": "tabs",
-        "dimension": 39.07942238267148,
+        "dimension": 9.045680687471732,
         "children": [
           {
             "id": "19e43a6438f53d5f",
@@ -93,31 +106,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roann/Roann.md",
+                "file": "Roann/History/Moons.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14570d946bf0a012",
+            "id": "8bdf1a97a34b0611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead Kingdom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0208298f4e6a8dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/History/Major schools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1036ede6d479ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/Factions/AA-current-1295-Factions/Olimar Republic/In/Cliyne Collage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "082330ffe7588599",
         "type": "tabs",
-        "dimension": 45.89350180505416,
+        "dimension": 52.37449118046133,
         "children": [
           {
             "id": "5a4c30d70aedd2d1",
@@ -159,12 +196,75 @@
             "id": "9504d8bdbdbdfe2f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/PCsN/Kiennavalyriss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3f3a789f4a6c19a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Roann/Map/Map-Factions.canvas",
+                "viewState": {
+                  "x": 391.3314301094331,
+                  "y": 15087.278491277228,
+                  "zoom": -1.1233872011374373
+                }
+              }
+            }
+          },
+          {
+            "id": "ee603fc3ba752110",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f1d5b984304ccfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "509c0dc7069eb1c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/PCsN/Kiennavalyriss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbd18a536345a021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/Imprtant_Places/The First Library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "537b97f7deee3a5e",
@@ -230,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Roann/PCsN/Kiennavalyriss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Roann/PCsN/Kiennavalyriss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Roann/PCsN/Kiennavalyriss.md"
               }
             }
           }
@@ -292,49 +392,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14570d946bf0a012",
+  "active": "58c7d9fd391de654",
   "lastOpenFiles": [
-    "Roann/Roann.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead.md",
+    "Roann/PCs/Ricia Tyne.md",
+    "Roann/PCsN/Kiennavalyriss.md",
+    "Roann/Pics/Pasted image 20230417014641.png",
+    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+    "Roann/Imprtant_Places/The First Library.md",
+    "Roann/Imprtant_Places",
     "Roann/History/Moons-bios/Ala.md",
-    "Roann/History/Moons.md",
-    "Roann/History/Moons-bios/Oliruf.md",
-    "Roann/History/Moons-bios/Anopo.md",
-    "Roann/History/Moons-bios/Alerog.md",
-    "Roann/History/Moons-bios/Zupiel.md",
-    "Roann/History/Moons-bios/Xoniel.md",
-    "Roann/History/Moons-bios/Liviel.md",
-    "Roann/History/Moons-bios/Seliel.md",
-    "Roann/History/Moons-bios/Dardiel.md",
-    "Roann/History/Moons-bios/Anael.md",
-    "Roann/History/Moons-bios/Kiruf.md",
-    "Roann/History/Moons-bios",
-    "Roann/History/Calendar.md",
+    "Roann/PCsN",
+    "Roann/Untitled.md",
+    "Roann/Pics/wallhaven-8orj2o.jpg",
+    "Roann/Pics/wallhaven-8orj2o.jpg.crdownload",
+    "Roann/Pics/wallhaven-72qqoo.jpg",
+    "Roann/Pics/wallhaven-72qqoo.jpg.crdownload",
+    "Roann/Pics/Pasted image 20230417012244.png",
+    "Roann/History/Major schools.md",
+    "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion of Dark Omen/In/Mornt Academy.md",
+    "Roann/Factions/AA-current-1295-Factions/Olimar Republic/In/Cliyne Collage.md",
     "Roann/Map/Map-Factions.canvas",
+    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Fymor the city of Iron tower.md",
+    "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/In/Selia Institute.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead Kingdom.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Cieny.md",
-    "Tyne.md",
+    "Roann/History/Moons.md",
+    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Fymor Academy.md",
+    "Roann/Factions/AA-current-1295-Factions/Olimar Republic/Olimar Republic.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/Kaspion Empire.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/The Great Vofonia School.md",
+    "Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom/Ithelion Kingdom.md",
+    "Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom/In/Iremorth Academy for Healing.md",
+    "Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom/In/Trirror Academy.md",
+    "Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom/In/Naefore Academy.md",
+    "Roann/Factions/AA-current-1295-Factions/Haford Empire/Haford Empire.md",
+    "Roann/Factions/AA-current-1295-Factions/Haford Empire/In/Batun School.md",
+    "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion of Dark Omen/Gunlags Dominion of Dark Omen.md",
+    "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/Ardees Mist Realm.md",
     "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
-    "Roann/Factions/Factions.md",
-    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/The tower of Rekku.md",
+    "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/In/Untitled",
+    "Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png",
+    "Roann/Pics/Roann13iceWothoutLabelPlusLables.png",
+    "Roann/Pics/{D1A7FDD0-985F-46B7-B553-8C996552F671}",
+    "Roann/Pics/Kiennavalyriss_The_Keeper_Of_Secrets_page-0001.jpg",
+    "Roann/History/Moons-bios",
     "Roann/Pics/dfbmwks-7f2c9504-17f4-4dd0-8835-60f6cd1a42da.jpg",
     "Roann/Pics/dfbmwks-7f2c9504-17f4-4dd0-8835-60f6cd1a42da.jpg.crdownload",
     "Roann/Pics/d9l23hi-2797baf7-535e-4269-acc3-b2b04fd1c632.png",
     "Roann/Pics/d9l23hi-2797baf7-535e-4269-acc3-b2b04fd1c632.png.crdownload",
     "Roann/Pics/dfb9ee9-5b44ebb5-fe94-46ae-b7dc-925f997ff576.jpg",
-    "Roann/Pics/dfb9ee9-5b44ebb5-fe94-46ae-b7dc-925f997ff576.jpg.crdownload",
-    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Shiva peaks.md",
-    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Shiva plains.md",
-    "Roann/PCs/Ricia Tyne.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Tynead Castle.md",
-    "Roann/Map/Kenban.md",
-    "Roann/Pics/Roann13iceWothoutLabelPlusLables.png",
-    "Roann/Pics/tynead-main-castle2croped.png",
-    "Roann/Pics/kim-sumin-2-copy.jpg",
-    "Roann/Pics/44a33c472500b7f994ad758190fba26c.jpg",
-    "Roann/Pics/c-home-x.jpg",
-    "Roann/Pics/Hero screenshot(2).png",
-    "Roann/Pics/Hero screenshot(3).png",
-    "Roann/PCs"
+    "Roann/Pics/dfb9ee9-5b44ebb5-fe94-46ae-b7dc-925f997ff576.jpg.crdownload"
   ]
 }

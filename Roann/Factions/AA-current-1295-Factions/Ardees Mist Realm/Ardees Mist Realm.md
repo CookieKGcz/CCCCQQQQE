@@ -7,3 +7,4 @@ Consist of:
 - [[The Great River of Aryss]]
 - [[THE Rift]]
 - [[The Valley of Death]]
+- [[Selia Institute]]
