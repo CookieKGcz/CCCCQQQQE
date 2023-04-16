@@ -15,4 +15,4 @@ Consist of:
 - [[Povyer forest]]
 - [[Ruins of Povyer]]
 - [[Tynead Castle]]
-Rulers: [[Tynead]], [[Tyne]] family, 
+Current Rulers: [[Tynead]], [[Tyne]] family, 

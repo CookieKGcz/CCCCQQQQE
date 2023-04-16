@@ -1,0 +1,1 @@
+Around Dardiel orbits other two moons (sub-moons) [[Seliel]] and [[Liviel]].

@@ -1,0 +1,1 @@
+Double the size of Kiruf and little yellowish color. Size is about 1428 km r. Takes 27 days to orbit.

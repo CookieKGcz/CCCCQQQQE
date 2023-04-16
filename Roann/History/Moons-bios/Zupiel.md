@@ -1,0 +1,1 @@
+First twin moons (take similar path). Blueish/Violet color. Similar sizes (900 - 1000 km r). Takes them 0.87 years to orbit.

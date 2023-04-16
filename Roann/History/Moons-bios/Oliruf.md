@@ -1,0 +1,1 @@
+First spotted in 279 (asmga). Size is between xx (200 - 500 km r). Color cannot be determined. Takes 26.67 years to orbit.
