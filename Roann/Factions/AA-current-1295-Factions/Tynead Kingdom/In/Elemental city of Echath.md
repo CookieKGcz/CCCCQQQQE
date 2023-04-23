@@ -9,4 +9,4 @@ True to the scale of major schools, it is one of the largest schools ever. It is
 
 
 [[The First Library]]
-[[Kiennavalyriss]]
+[[Valyriss]]
