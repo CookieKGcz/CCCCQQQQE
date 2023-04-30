@@ -74,7 +74,7 @@
 		{"type":"text","text":"[[Ithelion Kingdom]]","id":"fd7e7fcbaf00a0b5","x":-2618,"y":-5294,"width":250,"height":60,"color":"4"},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabel.png","id":"1f72ffa41fb316cc","x":-4743,"y":2794,"width":8178,"height":4089,"color":"1"},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLables.png","id":"6175890624a0d9b2","x":-4743,"y":7680,"width":8178,"height":4089},
-		{"id":"aa9f5d429be3613a","x":-4743,"y":12160,"width":8178,"height":4089,"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png"}
+		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png","id":"aa9f5d429be3613a","x":-4743,"y":12160,"width":8178,"height":4089}
 	],
 	"edges":[]
 }
