@@ -330,7 +330,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+                "file": "Roann/History/Major schools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +347,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+                "file": "Roann/History/Major schools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,7 +370,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md"
+                "file": "Roann/History/Major schools.md"
               }
             }
           }
@@ -392,13 +392,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c986c84acb4d1366",
+  "active": "0208298f4e6a8dc7",
   "lastOpenFiles": [
-    "Bethadh.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+    "Roann/PCsN/Kiennavalyriss.md",
+    "Roann/Map/Map-Factions.canvas",
+    "Bethadh.md",
     "Roann/History/Major schools.md",
     "Roann/History/Headmasters.md",
-    "Roann/PCsN/Kiennavalyriss.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead.md",
     "Roann/PCs/Ricia Tyne.md",
     "Roann/Pics/Pasted image 20230417014641.png",
@@ -414,7 +415,6 @@
     "Roann/Pics/Pasted image 20230417012244.png",
     "Roann/Factions/AA-current-1295-Factions/Gunlags Dominion of Dark Omen/In/Mornt Academy.md",
     "Roann/Factions/AA-current-1295-Factions/Olimar Republic/In/Cliyne Collage.md",
-    "Roann/Map/Map-Factions.canvas",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Fymor the city of Iron tower.md",
     "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/In/Selia Institute.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead Kingdom.md",
@@ -428,7 +428,6 @@
     "Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom/In/Trirror Academy.md",
     "Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom/In/Naefore Academy.md",
     "Roann/Factions/AA-current-1295-Factions/Haford Empire/Haford Empire.md",
-    "Roann/Factions/AA-current-1295-Factions/Haford Empire/In/Batun School.md",
     "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/In/Untitled",
     "Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png",
     "Roann/Pics/Roann13iceWothoutLabelPlusLables.png",
