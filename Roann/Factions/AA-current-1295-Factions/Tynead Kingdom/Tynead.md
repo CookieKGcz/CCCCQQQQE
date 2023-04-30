@@ -1,6 +1,6 @@
 ## Appearance:
-Face:![[c-home-x.jpg]] 
-Armor: ![[kim-sumin-2-copy.jpg]]
+Face: 
+Armor: 
 
 ## Connections:
 - [[Tynead Kingdom]], [[Tynead Castle]]
@@ -12,3 +12,8 @@ Armor: ![[kim-sumin-2-copy.jpg]]
 ## Hobbies/Likes/Dislikes:
 - 
 # Background
+
+
+## pics
+![[c-home-x.jpg]]
+![[kim-sumin-2-copy.jpg]]

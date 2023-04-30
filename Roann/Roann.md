@@ -11,3 +11,14 @@ x
 A this takes us to current year 1295.
 
 [^1]: bsmga stands for Before the Start of the Magic Golden Age
+
+## Additional info
+Circumstance: 12'028 km
+days in a year: 870
+
+~200 hexagons on map
+28px -- is about 84,196km ~ 84 km
+![[Roann13iceWothoutLabelPlusLablesPlusSchoolscrooped.png | 500]]
+For reference, Tynead Castle is the length of a France. 
+![[RoannTyneadCcompFrance.png]]
+![[Screenshot_20230423_222338.png]]
