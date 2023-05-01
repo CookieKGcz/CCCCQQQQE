@@ -6,7 +6,7 @@
       {
         "id": "7219fcd4abb925c9",
         "type": "tabs",
-        "dimension": 32.16266173752311,
+        "dimension": 32.169686257180736,
         "children": [
           {
             "id": "c50d4e20befddfd0",
@@ -27,6 +27,18 @@
               "type": "markdown",
               "state": {
                 "file": "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5545a8a855341b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roann/Imprtant_Places/Casted continent.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,12 +69,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b7f47ec7ffe7aecc",
         "type": "tabs",
-        "dimension": 30.067775723967955,
+        "dimension": 30.048608042421566,
         "children": [
           {
             "id": "19e43a6438f53d5f",
@@ -178,7 +190,7 @@
       {
         "id": "082330ffe7588599",
         "type": "tabs",
-        "dimension": 37.769562538508936,
+        "dimension": 37.7817057003977,
         "children": [
           {
             "id": "5a4c30d70aedd2d1",
@@ -236,9 +248,9 @@
               "state": {
                 "file": "Roann/Map/Map-Factions.canvas",
                 "viewState": {
-                  "x": -3841.8033527423368,
-                  "y": 13913.574218011416,
-                  "zoom": -0.6666666666666663
+                  "x": -874.4087008603825,
+                  "y": 15205.792378840808,
+                  "zoom": -4
                 }
               }
             }
@@ -354,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
+                "file": "Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -371,7 +383,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
+                "file": "Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -394,7 +406,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md"
+                "file": "Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png"
               }
             }
           }
@@ -416,25 +428,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f95040ceecb42252",
+  "active": "d3f3a789f4a6c19a",
   "lastOpenFiles": [
-    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Dim forest.md",
+    "Roann/Imprtant_Places/Casted continent.md",
+    "Roann/Map/Map-Factions.canvas",
+    "Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png",
+    "Roann/Roann.md",
+    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+    "Roann/PCsN/Valyriss.md",
+    "Roann/Factions/AA-current-1295-Factions/Haford Empire/In/Batun Towers.md",
+    "Roann/PCsN/Anton Viln.md",
+    "Roann/Pics/Roann14WithoutLabelsOfMinorTowns2.png",
+    "Roann/Pics/Roann14WithoutLabelsOfMinorTowns.png",
     "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
     "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/The tower of Rekku.md",
+    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Dim forest.md",
     "Roann/History+World_INFO/Schools",
     "Roann/Seas/Seas.md",
     "Roann/Seas/Barrea sea.md",
     "Roann/Seas/Meleio sea.md",
     "Roann/Seas/Thisos sea.md",
-    "Roann/Roann.md",
     "Roann/Seas",
-    "Roann/Map/Map-Factions.canvas",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Cieny.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Cronefeng forest.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Cronefeng river.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Drake-peaks.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Echath woods.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Forest of Fymor.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Fymor Academy.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Fymor the city of Iron tower.md",
@@ -442,11 +461,6 @@
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Monernorn.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Peninsula of Wondre the Great.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Povyer forest.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Ruins of Povyer.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Tyne Garden.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Tynead Castle.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/The citadel of the Quirm Lady.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead Kingdom.md",
     "Roann/Pics/40-Visual-Symbols-Every-Designer-Needs-to-Know.png",
     "Roann/Pics/Screenshot_20230423_222338.png",
     "Roann/Pics/RoannTyneadCcompFrance.png",
@@ -457,11 +471,8 @@
     "Roann/PCsN",
     "Roann/Pics/wallhaven-8orj2o.jpg",
     "Roann/Pics/wallhaven-8orj2o.jpg.crdownload",
-    "Roann/Pics/wallhaven-72qqoo.jpg",
     "Roann/Pics/wallhaven-72qqoo.jpg.crdownload",
-    "Roann/Pics/Pasted image 20230417012244.png",
     "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/In/Untitled",
-    "Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png",
     "Roann/Pics/{D1A7FDD0-985F-46B7-B553-8C996552F671}",
     "Roann/History+World_INFO/Moons-bios",
     "Roann/Pics/dfbmwks-7f2c9504-17f4-4dd0-8835-60f6cd1a42da.jpg.crdownload"
