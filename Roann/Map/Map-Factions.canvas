@@ -66,7 +66,6 @@
 		{"type":"text","text":"[[Peninsula of Wondre the Great]]","id":"65f53e176df5534c","x":-4808,"y":-1319,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Tyne Garden]]","id":"56cf76f365ec969e","x":-4523,"y":-1943,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"[[Keilnorn]]","id":"7bd6e3d3c1b20ad3","x":-4795,"y":-1615,"width":250,"height":60,"color":"#ffffff"},
-		{"type":"file","file":"Roann/Pics/Roann13icePLUSgeneralFactions.png","id":"02c7c9f6768eade2","x":-4808,"y":-7146,"width":8174,"height":4084},
 		{"type":"text","text":"[[Ardees Mist Realm]]","id":"f823ab1720d5563f","x":-3191,"y":-3783,"width":250,"height":60},
 		{"type":"text","text":"[[Gunlags Dominion of Dark Omen]]","id":"9d4dd499d876d20d","x":1030,"y":-3798,"width":336,"height":60},
 		{"type":"text","text":"[[Olimar Republic]]","id":"565ef5be057d09d9","x":-1668,"y":-4278,"width":250,"height":60,"color":"5"},
@@ -75,7 +74,8 @@
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabel.png","id":"1f72ffa41fb316cc","x":-4743,"y":2794,"width":8178,"height":4089,"color":"1"},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLables.png","id":"6175890624a0d9b2","x":-4743,"y":7680,"width":8178,"height":4089},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png","id":"aa9f5d429be3613a","x":-4743,"y":12160,"width":8178,"height":4089},
-		{"id":"d0aec17d44cd99a2","x":-4743,"y":16480,"width":8178,"height":4089,"type":"file","file":"Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png"}
+		{"type":"file","file":"Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png","id":"d0aec17d44cd99a2","x":-4743,"y":16480,"width":8178,"height":4089},
+		{"type":"file","file":"Roann/Pics/Roann13icePLUSgeneralFactions.png","id":"02c7c9f6768eade2","x":-5080,"y":-7280,"width":8174,"height":4084}
 	],
 	"edges":[]
 }
