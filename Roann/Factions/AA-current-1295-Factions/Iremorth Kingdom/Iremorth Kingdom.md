@@ -5,6 +5,6 @@ Consist of:
 - [[Mordant river]]
 - [[Mudai Mountains]]
 - [[Orgmoor woods]]
-- [[The spears of Ithelion]]
+- [[The spears of Iremorth]]
 - [[Trirror Academy]]
 - [[Iremorth Academy for Healing]]

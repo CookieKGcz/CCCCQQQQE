@@ -1,6 +1,9 @@
-[[Monernorn]] - manenorn
-Ijulavik - Julavik
-[[Ithelion Kingdom]] - Iremorth (keep thelion)
-Dino city - Thelion bourg
-[[Olimar Republic]] - Collio r
-Lavras - Laavras / lavraas*
+Manenorn - manenorn /d
+Ijulavik - Julavik /d
+Iremorth Kingdom]] - Iremorth (keep thelion) /d
+Dino city - Thelion bourg /d
+Collio Republic]] - Collio r /d
+Lavras - Laavras / lavraas* /d
+
+Potential names: Rhael, Holstur, Keyn, Sebir, Deru, Kimee, Merri, Kymal,
+

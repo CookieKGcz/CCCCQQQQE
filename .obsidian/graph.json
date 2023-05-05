@@ -11,60 +11,67 @@
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Tynead Kingdom\"",
       "color": {
         "a": 1,
-        "rgb": 1345279
+        "rgb": 4680852
       }
     },
     {
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Shiva Islands\"",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 10307656
       }
     },
     {
-      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Ithelion Kingdom\"",
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Iremorth Kingdom\"",
       "color": {
         "a": 1,
-        "rgb": 65310
+        "rgb": 4362059
       }
     },
     {
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm\"",
       "color": {
         "a": 1,
-        "rgb": 13193952
+        "rgb": 8470158
       }
     },
     {
-      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Olimar Republic\"",
+      "query": "path:\"Roann/Factions/AA-current-1295-Factions/Collio Republic\"",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5020288
       }
     },
     {
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Haford Empire\"",
       "color": {
         "a": 1,
-        "rgb": 12247122
+        "rgb": 8426567
       }
     },
     {
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Gunlags Dominion of Dark Omen/\"",
       "color": {
         "a": 1,
-        "rgb": 14122521
+        "rgb": 10516038
       }
     },
     {
       "query": "path:\"Roann/Factions/AA-current-1295-Factions/Kaspion Empire\"",
       "color": {
         "a": 1,
-        "rgb": 7681280
+        "rgb": 7028249
       }
     },
     {
       "query": "path:Roann/PCs",
+      "color": {
+        "a": 1,
+        "rgb": 16756141
+      }
+    },
+    {
+      "query": "file:Roann",
       "color": {
         "a": 1,
         "rgb": 16777215
@@ -81,6 +88,6 @@
   "repelStrength": 7.08333333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941749442,
+  "scale": 0.16020272916386585,
   "close": false
 }

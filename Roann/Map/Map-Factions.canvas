@@ -21,7 +21,7 @@
 		{"type":"text","text":"[[Collios Northern Stronghold]]","id":"68988520eeac3395","x":-1983,"y":75,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Arrys]] (Lake)","id":"9805cbebd598d00e","x":-2200,"y":1092,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"[[Delmors Rainforest]]","id":"964783bb3098eae2","x":-2217,"y":-200,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"[[The spears of Ithelion]]","id":"9355c186f66d534c","x":-2043,"y":-743,"width":250,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"[[The spears of Iremorth]]","id":"9355c186f66d534c","x":-2043,"y":-743,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Mordant river]]","id":"da3768df4078468f","x":-2195,"y":-1198,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"[[Batun Towers]]","id":"4d0a721ef7b6c6ca","x":-529,"y":-1497,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Vor]]","id":"6c8cfd1da35c27c1","x":-1055,"y":-1463,"width":250,"height":60,"color":"5"},
@@ -30,7 +30,7 @@
 		{"type":"text","text":"[[Pollia Islands]]","id":"1d5950a87283cd91","x":269,"y":-1437,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Meleio sea]]","id":"791807bf897e836d","x":1237,"y":-1377,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"[[Tynead Castle]]","id":"cde32ba563eb9a8a","x":2582,"y":-1497,"width":250,"height":60,"color":"#ffffff"},
-		{"type":"text","text":"[[Monernorn]]","id":"dd5cf02598af1e9e","x":3075,"y":-1437,"width":250,"height":60,"color":"#ffffff"},
+		{"type":"text","text":"[[Manenorn]]","id":"dd5cf02598af1e9e","x":3075,"y":-1437,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Crypt of the Old One ]], [[Old One]]","id":"63c9481e63f2e45a","x":-2777,"y":220,"width":250,"height":60},
 		{"type":"text","text":"[[Desert of Giants]]","id":"090428379f4f030b","x":-3027,"y":250,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"[[Labyrinth of the gate to the Mist]]","id":"241417233df1f907","x":-3175,"y":622,"width":326,"height":50},
@@ -68,14 +68,14 @@
 		{"type":"text","text":"[[Keilnorn]]","id":"7bd6e3d3c1b20ad3","x":-4795,"y":-1615,"width":250,"height":60,"color":"#ffffff"},
 		{"type":"text","text":"[[Ardees Mist Realm]]","id":"f823ab1720d5563f","x":-3191,"y":-3783,"width":250,"height":60},
 		{"type":"text","text":"[[Gunlags Dominion of Dark Omen]]","id":"9d4dd499d876d20d","x":1030,"y":-3798,"width":336,"height":60},
-		{"type":"text","text":"[[Olimar Republic]]","id":"565ef5be057d09d9","x":-1668,"y":-4278,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"[[Collio Republic]]","id":"565ef5be057d09d9","x":-1668,"y":-4278,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"[[Kaspion Empire]]","id":"f4b0805a799db23e","x":-551,"y":-5164,"width":250,"height":60},
-		{"type":"text","text":"[[Ithelion Kingdom]]","id":"fd7e7fcbaf00a0b5","x":-2618,"y":-5294,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"[[Iremorth Kingdom]]","id":"fd7e7fcbaf00a0b5","x":-2618,"y":-5294,"width":250,"height":60,"color":"4"},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabel.png","id":"1f72ffa41fb316cc","x":-4743,"y":2794,"width":8178,"height":4089,"color":"1"},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLables.png","id":"6175890624a0d9b2","x":-4743,"y":7680,"width":8178,"height":4089},
 		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png","id":"aa9f5d429be3613a","x":-4743,"y":12160,"width":8178,"height":4089},
-		{"type":"file","file":"Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png","id":"d0aec17d44cd99a2","x":-4743,"y":16480,"width":8178,"height":4089},
-		{"type":"file","file":"Roann/Pics/Roann13icePLUSgeneralFactions.png","id":"02c7c9f6768eade2","x":-5080,"y":-7280,"width":8174,"height":4084}
+		{"type":"file","file":"Roann/Pics/Roann13icePLUSgeneralFactions.png","id":"02c7c9f6768eade2","x":-5080,"y":-7280,"width":8174,"height":4084},
+		{"type":"file","file":"Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png","id":"e5df65960b4a1212","x":-4743,"y":16480,"width":8178,"height":4089}
 	],
 	"edges":[]
 }
