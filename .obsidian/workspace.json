@@ -6,7 +6,7 @@
       {
         "id": "7219fcd4abb925c9",
         "type": "tabs",
-        "dimension": 30.165912518853695,
+        "dimension": 30.16591251885369,
         "children": [
           {
             "id": "c50d4e20befddfd0",
@@ -27,18 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5545a8a855341b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roann/Imprtant_Places/Casted continent.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,14 +55,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b3a01a562be5315",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "b7f47ec7ffe7aecc",
         "type": "tabs",
-        "dimension": 30.165912518853695,
+        "dimension": 30.16591251885369,
         "children": [
           {
             "id": "19e43a6438f53d5f",
@@ -94,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roann/PCs/Ricia Tyne.md",
+                "file": "Roann/PCs/Alive/Tynead/Ricia Tyne.md",
                 "mode": "source",
                 "source": false
               }
@@ -234,7 +230,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roann/PCsN/Valyriss.md",
+                "file": "Roann/PCs/Alive/Tynead/Valyriss.md",
                 "mode": "source",
                 "source": false
               }
@@ -273,31 +269,19 @@
             }
           },
           {
-            "id": "509c0dc7069eb1c7",
+            "id": "11a9a8dd020481f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roann/PCsN/Valyriss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbd18a536345a021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roann/Imprtant_Places/The First Library.md",
+                "file": "Roann/PCs/Alive/Wanderers/Kara Ar Lun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -371,7 +355,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roann/Notes.md",
+                "file": "Roann/PCs/Alive/Wanderers/Kara Ar Lun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -388,7 +372,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roann/Notes.md",
+                "file": "Roann/PCs/Alive/Wanderers/Kara Ar Lun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -411,7 +395,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Roann/Notes.md"
+                "file": "Roann/PCs/Alive/Wanderers/Kara Ar Lun.md"
               }
             }
           }
@@ -433,11 +417,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3f3a789f4a6c19a",
+  "active": "11a9a8dd020481f1",
   "lastOpenFiles": [
-    "Roann/Roann.md",
+    "Roann/PCs/Alive/Tynead/Ricia Tyne.md",
+    "Roann/PCs/Alive/Wanderers/Kara Ar Lun.md",
+    "Roann/Pics/bbea109d988160989f36c641d39e6016.jpg",
+    "Roann/Pics/9b47536d9be0472dd075e698a9c72918.jpg",
+    "Roann/PCs/Alive/Tynead/Valyriss.md",
+    "Roann/PCs/Deceased/Anton Viln.md",
     "Roann/Imprtant_Places/Casted continent.md",
+    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
     "Roann/Notes.md",
+    "Roann/PCs/Alive/Wanderers.md",
+    "Roann/PCs/PCsINFO.md",
+    "Roann/PCs/Alive/Wanderers/Wanderes.md",
+    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead.md",
+    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
+    "Bethadh.md",
+    "Roann/PCs/Alive/Untitled",
+    "Roann/PCs/Alive/Tynead",
+    "Roann/PCs/Alive/Wanderers",
+    "Roann/PCs/Alive",
+    "Roann/PCs/Deceased",
+    "Roann/Untitled",
+    "Roann/Imprtant_Places/The First Library.md",
+    "Roann/History+World_INFO/Moons-bios/Ala.md",
+    "Roann/Pics/wallhaven-4vejw5.jpg",
+    "Roann/Roann.md",
     "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/The tower of Rekku.md",
     "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/Ardees Mist Realm.md",
     "Roann/Factions/AA-current-1295-Factions/Collio Republic/Collio Republic.md",
@@ -445,42 +451,19 @@
     "Roann/Factions/AA-current-1295-Factions/Haford Empire/Haford Empire.md",
     "Roann/Factions/AA-current-1295-Factions/Iremorth Kingdom/Iremorth Kingdom.md",
     "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/Kaspion Empire.md",
-    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/Shiva Islands.md",
     "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Dim forest.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead.md",
     "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/Tynead Kingdom.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Fymor Academy.md",
-    "Roann/PCsN/Valyriss.md",
-    "Roann/History+World_INFO/Moons-bios/Ala.md",
-    "Roann/Factions/AA-current-1295-Factions/Iremorth Kingdom/In/The spears of Iremorth.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Manenorn.md",
     "Roann/Map/Map-Factions.canvas",
     "Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png.Tfavsu",
-    "Roann/History+World_INFO/Calendar.md",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Cieny.md",
     "Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png",
-    "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
-    "Roann/Factions/AA-current-1295-Factions/Haford Empire/In/Batun Towers.md",
-    "Roann/PCsN/Anton Viln.md",
     "Roann/Pics/Roann14WithoutLabelsOfMinorTowns2.png",
     "Roann/Pics/Roann14WithoutLabelsOfMinorTowns.png",
     "Roann/History+World_INFO/Schools",
-    "Roann/Seas/Seas.md",
-    "Roann/Seas/Barrea sea.md",
     "Roann/Seas",
     "Roann/Pics/40-Visual-Symbols-Every-Designer-Needs-to-Know.png",
     "Roann/Pics/Screenshot_20230423_222338.png",
     "Roann/Pics/RoannTyneadCcompFrance.png",
     "Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchoolscrooped.png",
-    "Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools copy.png",
-    "Roann/Pics/Pasted image 20230417014641.png",
-    "Roann/Imprtant_Places",
-    "Roann/PCsN",
-    "Roann/Pics/wallhaven-8orj2o.jpg",
-    "Roann/Pics/wallhaven-8orj2o.jpg.crdownload",
-    "Roann/Pics/wallhaven-72qqoo.jpg.crdownload",
-    "Roann/Factions/AA-current-1295-Factions/Ardees Mist Realm/In/Untitled",
-    "Roann/Pics/{D1A7FDD0-985F-46B7-B553-8C996552F671}",
-    "Roann/History+World_INFO/Moons-bios"
+    "Roann/Imprtant_Places"
   ]
 }
