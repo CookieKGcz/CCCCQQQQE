@@ -1,0 +1,1 @@
+In important trade city, being the halfway point between the [[Congress of Collio]] and the [[Kaspion Empire]] 

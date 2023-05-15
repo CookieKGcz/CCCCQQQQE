@@ -1,0 +1,1 @@
+A wast body of water bordering the [[Iremorth Kingdom]], the [[Collio Republic]], the [[Kaspion Empire]], [[Gunlags Dominion of Dark Omen]], and the [[Ardees Mist Realm]]

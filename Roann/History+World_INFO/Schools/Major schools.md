@@ -8,7 +8,7 @@ There are 11 major schools in [[Roann]].
 - [[Iremorth Academy for Healing]]
 - [[The Great Vofonia School]]
 - [[Selia Institute]]
-- [[Cliyne Collage]]
+- [[Cliyne College]]
 - [[Mornt Academy]]
 
 
