@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Tynead Kingdom/In/Elemental city of Echath.md",
+                "file": "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/Kaspion Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Collio Republic/In/Cliyne College.md",
+                "file": "Roann/Factions/AA-current-1295-Factions/Collio Republic/Collio Republic.md",
                 "mode": "source",
                 "source": false
               }
@@ -284,14 +284,15 @@
               "state": {
                 "file": "Roann/Map/Map-Factions.canvas",
                 "viewState": {
-                  "x": -1284.500763950969,
-                  "y": 19414.7700893548,
-                  "zoom": 3.3306690738754696e-16
+                  "x": -168.10749956429683,
+                  "y": 18712.120411676686,
+                  "zoom": -1.666666666666666
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -365,7 +366,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Collio Republic/In/Cliyne College.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -382,7 +382,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Collio Republic/In/Cliyne College.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -404,9 +403,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Roann/Factions/AA-current-1295-Factions/Collio Republic/In/Cliyne College.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -427,37 +424,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a4c30d70aedd2d1",
+  "active": "ee603fc3ba752110",
   "lastOpenFiles": [
-    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Shiva plains.md",
-    "Roann/History+World_INFO/Calendar.md",
-    "Roann/History+World_INFO/Days/Pyrid.md",
-    "Roann/History+World_INFO/Days/Riel.md",
-    "Roann/History+World_INFO/Days/Archiel.md",
-    "Roann/History+World_INFO/Days/Panael.md",
-    "Roann/History+World_INFO/Days/Unam.md",
-    "Roann/History+World_INFO/Days/Baltha.md",
-    "Roann/History+World_INFO/Days/Saviel.md",
-    "Roann/History+World_INFO/Days/Sacha.md",
-    "Roann/History+World_INFO/Days",
-    "Roann/History+World_INFO/Months/Maceum.md",
-    "Roann/History+World_INFO/Months/Gabrum.md",
-    "Roann/History+World_INFO/Months/Fonum.md",
-    "Roann/History+World_INFO/Months/Vaeum.md",
-    "Roann/History+World_INFO/Months/Gendum.md",
-    "Roann/History+World_INFO/Months/Cerium.md",
-    "Roann/History+World_INFO/Months/Buqum.md",
-    "Roann/History+World_INFO/Months/Devirum.md",
-    "Roann/History+World_INFO/Months/Shudum.md",
-    "Roann/History+World_INFO/Months/Sulfum.md",
-    "Roann/History+World_INFO/Months/Hikum.md",
-    "Roann/History+World_INFO/Months/Dielum.md",
-    "Roann/History+World_INFO/Months/Maelum.md",
-    "Roann/History+World_INFO/Months/Jophum.md",
-    "Roann/History+World_INFO/Months/Azraum.md",
-    "Roann/History+World_INFO/Months/Peniyum.md",
-    "Roann/History+World_INFO/Months",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/Kaspion Empire.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Lavrass.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Cursed lands.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Dimonna.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Barnea.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Tichit.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Alegirs.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Kiffa.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Semin.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Bissora.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Seville.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Deep hole.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Kaspions doors.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Fortaare.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Vafonia first Keep.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Elry.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Sutton port.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Tranmere.md",
+    "Roann/Factions/AA-current-1295-Factions/Kaspion Empire/In/Kaspion Spires.md",
+    "Roann/Factions/AA-current-1295-Factions/Haford Empire/In/Tarm.md",
     "Roann/Map/Map-Factions.canvas",
+    "Roann/Factions/AA-current-1295-Factions/Collio Republic/Collio Republic.md",
+    "Roann/Factions/AA-current-1295-Factions/Collio Republic/In/Skigness Bay.md",
+    "Roann/History+World_INFO/Calendar.md",
+    "Roann/Factions/AA-current-1295-Factions/Shiva Islands/In/Shiva plains.md",
+    "Roann/Factions/AA-current-1295-Factions/Collio Republic/In/Cliyne College.md",
+    "Roann/Factions/AA-current-1295-Factions/Haford Empire/Haford Empire.md",
+    "Roann/History+World_INFO/Days",
+    "Roann/History+World_INFO/Months",
     "Roann/Pics/Screenshot 2023-05-15 235549.png",
     "Roann/Pics/bbea109d988160989f36c641d39e6016.jpg",
     "Roann/Pics/9b47536d9be0472dd075e698a9c72918.jpg",
