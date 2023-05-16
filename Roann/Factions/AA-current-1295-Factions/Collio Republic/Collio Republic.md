@@ -6,4 +6,3 @@ Consist of:
 - [[Irion]]
 - [[Olimor]]
 - [[Conglave]]
-- [[Skigness Bay]]
