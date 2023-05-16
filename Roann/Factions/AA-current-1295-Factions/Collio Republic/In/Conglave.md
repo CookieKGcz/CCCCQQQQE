@@ -1,1 +1,1 @@
-In important trade city, being the halfway point between the [[Congress of Collio]] and the [[Kaspion Empire]] 
+An important trade city, being the halfway point between the [[Congress of Collio]] and the [[Kaspion Empire]]. Though not as prominent as the other cities since most of Collio's trade happens on [[The Great Lake]]. 

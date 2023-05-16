@@ -1,5 +1,4 @@
-The capital city of the [[Collio Republic]] which lies next to the [[Cliyne College]]
-(I suppose this is the capital city, right?)
+Formerly just Collio, it is the de-facto capital city of the [[Collio Republic]], as all other cities meet here to discuss the future of the republic ([[The history of the Skigness peninsula|The foundation of the Collio Republic]]), which lies next to the [[Cliyne College]]. It prides itself on being both scientifically and philosophically advanced.
 ## Ideas
 - Center of research, education and philosophy (This is magic Greece, after all)(btw what's the state of technology in this world? Just classic D&D shit?)
 - Since Collio is a republic this is where the parliament sits (Or president, whichever type of republic Collio is)

@@ -1,0 +1,1 @@
+Olimor is a city in western [[Collio Republic|Collio]]. It prides itself on having the strongest fleet out of all the cities
