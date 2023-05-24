@@ -1,0 +1,3 @@
+Having roots in the elvish history, this tree is in perfect balance with outer elements, spirits and nature. It is said that it is the first tree that the mother nature choose to be the xx ancestor and give shelter to easily prayed beings. Legends says that, first it was an oak tree, which decided to give its life to a dying elf, who in return swore its loyalty and life. But not all stories end well. With the elvish last dying wish, it prayed for its goddess and its prayers were heard.
+
+not making sense bruh

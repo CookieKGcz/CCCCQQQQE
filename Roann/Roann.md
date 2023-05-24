@@ -17,7 +17,7 @@ Circumstance: 12'028 km
 days in a year: 870
 
 ~200 hexagons on map
-28px -- is about 84,196km ~ 84 km
+28px -- is about 84,196km ~ 84 km =about 3 days of travel on horse (without the 3rd night), with calc - ~30km a day on horse
 ![[Roann13iceWothoutLabelPlusLablesPlusSchoolscrooped.png | 500]]
 For reference, Tynead Castle is the length of a France. 
 ![[RoannTyneadCcompFrance.png]]

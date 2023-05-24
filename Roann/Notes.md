@@ -7,3 +7,7 @@ Lavras - Laavras / lavraas* /d
 
 Potential names: Rhael, Holstur, Keyn, Sebir, Deru, Kimee, Merri, Kymal,
 
+Ophelia, 
+
+
+Thoughts: Favored by gods, Death symbol -> mythology,   
