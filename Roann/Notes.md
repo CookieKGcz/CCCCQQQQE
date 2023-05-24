@@ -10,4 +10,4 @@ Potential names: Rhael, Holstur, Keyn, Sebir, Deru, Kimee, Merri, Kymal,
 Ophelia, 
 
 
-Thoughts: Favored by gods, Death symbol -> mythology,   
+Thoughts: Favored by gods, Death symbol -> mythology, Dragons as the beginning of magic, 
