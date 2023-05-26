@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"Roann/Pics/Roann.png","id":"d56a82f86f65bc79","x":-4797,"y":-10278,"width":5154,"height":2577},
+		{"type":"file","file":"Roann/Pics/Maps/Roann.png","id":"d56a82f86f65bc79","x":-4797,"y":-10278,"width":5154,"height":2577},
 		{"type":"text","text":"[[Haford Empire]]","id":"a46aeb296fb1b0f1","x":-1231,"y":-6551,"width":250,"height":60},
 		{"type":"text","text":"[[Tynead Kingdom]]","id":"b5a9199188635d5e","x":-4037,"y":-6740,"width":250,"height":60},
 		{"type":"text","text":"[[Shiva Islands]]","id":"57983c0db23ff7a1","x":-3855,"y":-5726,"width":250,"height":60},
@@ -71,11 +71,11 @@
 		{"type":"text","text":"[[Collio Republic]]","id":"565ef5be057d09d9","x":-1668,"y":-4278,"width":250,"height":60,"color":"5"},
 		{"type":"text","text":"[[Kaspion Empire]]","id":"f4b0805a799db23e","x":-551,"y":-5164,"width":250,"height":60},
 		{"type":"text","text":"[[Iremorth Kingdom]]","id":"fd7e7fcbaf00a0b5","x":-2618,"y":-5294,"width":250,"height":60,"color":"4"},
-		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabel.png","id":"1f72ffa41fb316cc","x":-4743,"y":2794,"width":8178,"height":4089,"color":"1"},
-		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLables.png","id":"6175890624a0d9b2","x":-4743,"y":7680,"width":8178,"height":4089},
-		{"type":"file","file":"Roann/Pics/Roann13iceWothoutLabelPlusLablesPlusSchools.png","id":"aa9f5d429be3613a","x":-4743,"y":12160,"width":8178,"height":4089},
-		{"type":"file","file":"Roann/Pics/Roann13icePLUSgeneralFactions.png","id":"02c7c9f6768eade2","x":-5080,"y":-7280,"width":8174,"height":4084},
-		{"type":"file","file":"Roann/Pics/Roann14WithoutLabelsOfMinorTowns3.png","id":"e5df65960b4a1212","x":-4743,"y":16560,"width":8178,"height":4089}
+		{"type":"file","file":"Roann/Pics/Maps/Roann13iceWothoutLabel.png","id":"1f72ffa41fb316cc","x":-4743,"y":2794,"width":8178,"height":4089,"color":"1"},
+		{"type":"file","file":"Roann/Pics/Maps/Roann13iceWothoutLabelPlusLables.png","id":"6175890624a0d9b2","x":-4743,"y":7680,"width":8178,"height":4089},
+		{"type":"file","file":"Roann/Pics/Maps/Roann13iceWothoutLabelPlusLablesPlusSchools.png","id":"aa9f5d429be3613a","x":-4743,"y":12160,"width":8178,"height":4089},
+		{"type":"file","file":"Roann/Pics/Maps/Roann13icePLUSgeneralFactions.png","id":"02c7c9f6768eade2","x":-5080,"y":-7280,"width":8174,"height":4084},
+		{"type":"file","file":"Roann/Pics/Maps/Roann14WithoutLabelsOfMinorTowns3.png","id":"e5df65960b4a1212","x":-4743,"y":16560,"width":8178,"height":4089}
 	],
 	"edges":[]
 }
