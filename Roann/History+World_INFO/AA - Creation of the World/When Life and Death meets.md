@@ -9,7 +9,7 @@ This is a tale that speaks of the creation of [[The Korion]] (the universe) and 
 >and after few moments,
 >the birth of two concepts,
 >who brought light and darkness into the seamlessly endless void,
->was the first instant where joy and sadness,
+>was the first instant, where joy and sadness,
 >were but the same allopolyploid. 
 
 \- unknown
