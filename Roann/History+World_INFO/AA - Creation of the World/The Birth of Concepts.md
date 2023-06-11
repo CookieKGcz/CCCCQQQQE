@@ -1,0 +1,1 @@
+The birth of concepts is a term used for the creation of life and death and other concepts that came right after.

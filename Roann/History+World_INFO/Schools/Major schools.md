@@ -1,4 +1,4 @@
-There are 11 major schools in [[Roann]].
+There are 12 major schools in [[Roann]].
 - [[Elemental city of Echath]]
 - [[Cieny]]
 - [[Fymor Academy]]
@@ -7,6 +7,7 @@ There are 11 major schools in [[Roann]].
 - [[Trirror Academy]]
 - [[Iremorth Academy for Healing]]
 - [[The Great Vofonia School]]
+- [[Masahabi Institute]]
 - [[Selia Institute]]
 - [[Cliyne College]]
 - [[Mornt Academy]]

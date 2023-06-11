@@ -23,7 +23,10 @@ And this takes us to current year 1295.
 
 
 ## Major connections
+- [[When Life and Death meets]]
+- [[The Birth of Concepts]]
 - [[Races]]
+- 
 
 ## Additional info
 Circumstance: 12'028 km
