@@ -22,3 +22,4 @@ Consist of:
 - [[Dimonna]]
 - [[Cursed lands]]
 - [[Lavrass]]
+- [[Masahabi Institute]]

@@ -29,12 +29,12 @@ And this takes us to current year 1295.
 - 
 
 ## Additional info
-Circumstance: 12'028 km
+Circumference: 24'028 km
 days in a year: 870
 
 ~200 hexagons on map
-28px -- is about 84,196km ~ 84 km =about 3 days of travel on horse (without the 3rd night), with calc - ~30km a day on horse
+28px -- is about 168,196km ~ 168 km =about 6.5 days of travel on horse (without the 6th night), with calc - ~30km a day on horse
 ![[Roann13iceWothoutLabelPlusLablesPlusSchoolscrooped.png | 500]]
-For reference, Tynead Castle is the length of a France. 
+For reference, Tynead Castle's peninsula (About 1932 km) is half the length of a France (1000 km). 
 ![[RoannTyneadCcompFrance.png]]
 ![[Screenshot_20230423_222338.png]]
