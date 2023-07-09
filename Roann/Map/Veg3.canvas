@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"file","file":"Roann/Pics/Maps/Ardess_veg.png","id":"7f849858593f2076","x":0,"y":-2160,"width":4103,"height":2044},
+		{"type":"file","file":"Roann/Pics/Maps/Gunlags_veg.png","id":"8d80be4cb556b958","x":0,"y":-111,"width":4094,"height":1874}
+	],
+	"edges":[]
+}

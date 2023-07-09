@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"file","file":"Roann/Pics/Maps/Shiva_veg.png","id":"164d9f5c91440125","x":-4106,"y":-1897,"width":4096,"height":4096},
+		{"type":"file","file":"Roann/Pics/Maps/Iremorth_veg.png","id":"e25b5899ebdddecb","x":-4106,"y":-5274,"width":4094,"height":3374},
+		{"type":"file","file":"Roann/Pics/Maps/Kaspion_veg.png","id":"fa1b3cd4105f2a5d","x":-3,"y":-5279,"width":4109,"height":2935}
+	],
+	"edges":[]
+}

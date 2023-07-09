@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Roann/Pics/Maps/Iremorth_blank.png","id":"d83ebc245889ff25","x":-4106,"y":-3088,"width":4104,"height":3382},
+		{"type":"file","file":"Roann/Pics/Maps/Kaspion_blank.png","id":"a238fdf369f0497b","x":-2,"y":-3088,"width":4109,"height":2935},
+		{"type":"file","file":"Roann/Pics/Maps/Pollio_veg.png","id":"db4fb738748543f8","x":-4106,"y":294,"width":4104,"height":4104},
+		{"type":"file","file":"Roann/Pics/Maps/Shiva_blank.png","id":"4660c0a68600a64f","x":-2,"y":294,"width":4104,"height":4104}
+	],
+	"edges":[]
+}

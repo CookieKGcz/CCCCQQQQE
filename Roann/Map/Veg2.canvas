@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"file","file":"Roann/Pics/Maps/Collio_veg.png","id":"83fb134fd9c6d59a","x":0,"y":-2192,"width":4096,"height":2048},
+		{"type":"file","file":"Roann/Pics/Maps/Haford_veg.png","id":"05ca458aff24f2d5","x":7,"y":-144,"width":4089,"height":2337}
+	],
+	"edges":[]
+}
