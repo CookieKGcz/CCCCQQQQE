@@ -1,3 +1,5 @@
+Created by [[Miric Abdul]] in the later stages of year 0 a.g.a.
+
 [[Moons]] !TO DO! /*plot and why what helped*/
 
 Months (17): [[Rielum]], [[Peniyum]], [[Azraum]], [[Jophum]], [[Maelum]], [[Dielum]], [[Shudum]], [[Hikum]], [[Sulfum]], [[Devirum]], [[Buqum]], [[Cerium]], [[Gendum]], [[Vaeum]], [[Fonum]], [[Gabrum]], [[Maceum]]
@@ -5,8 +7,8 @@ Months (17): [[Rielum]], [[Peniyum]], [[Azraum]], [[Jophum]], [[Maelum]], [[Diel
 Days: [[Sacha]], [[Saviel]], [[Baltha]], [[Unam]], [[Panael]], [[Archiel]], [[Riel]], [[Pyrid]]
 
 
-[[Calendar]]
-Year: 1295 [[A.B.E.]]
+[[Miric Calendar]]
+Year: 1295 [[a.g.a.]]
 
 Rielum
 

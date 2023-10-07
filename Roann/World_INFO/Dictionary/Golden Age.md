@@ -1,0 +1,1 @@
+The beginning of the [[Miric Calendar]]. Also known as [[a.g.a]] (after the golden age), or [[b.g.a]].

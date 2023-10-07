@@ -1,0 +1,35 @@
+Just for some documents. Class A-C wont be prob. written.
+## Brief classification types
+- ### #Class_A
+	- Public knowledge
+	- #### Examples
+		- normal map, what is edible in area, literature...
+- ### #Class_B
+	- Knowledge only open to a specific area/organization, but easily traded with money, or accessible with some information gathering.
+	- #### Examples
+		- Magic, recipes food/alchemy, but also when guards are taking breaks...
+- ### #Class_C
+	- Knowledge only open to a specific area/organization, but costly to trade with money, accessible with some professional information gathering or spies.
+	- #### Examples
+		- 3rd - 5th tier Magic, What type of locks are in nobles house, rare botanic, hunting grounds, information on personnel...
+- ### #Class_D
+	- Knowledge only open to a specific groups/high ranks of organization. Very costly to trade with money, or accessible with some professional spies.
+	- Information which is also/already classified as bloody.
+	- #### Examples
+		- 6th tier magic, Teachings on specific stuff, rare/classified documents/information, date and place of gathering of nobles/characters in interest, ...
+- ### #Class_E
+	- knowledge only open to a specific characters/heads of organization. Extremely costly as there is a risk even exposing the information, hardly accessible with spies. Most of the lawful people will likely kill them selves, instead of revealing the information.
+	- #### Examples
+		- 7th - 8th tier of Magic, personal info on famous people, influential information which could pose a thread to organization/country or to a group, ...
+- ### #Class_F
+	- Info available to World leaders and few of their man or to very specific groups. Information that's worth to kill for fr. 
+	- #### Examples
+		- Information past after the generation, influential information which could very likely pose a thread to organization/country or to a group, ...
+- ### #Class_G
+	- Info known by few. 99% not noted, only passed by word of mouth. Can influence Raonn.
+- ### #Class_Z
+	- Known to Legendry/Ancient creatures. 
+- ### #Class_β
+	- Info that could be known by characters, but only in specific moment. Think before informing players as it very well could reveal the plot of something.
+- ### #Class_α
+	- Info for DM only.

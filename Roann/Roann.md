@@ -1,11 +1,11 @@
-World Roann is a world abandoned by many ancient gods and that is why you can see all kind of things happening even right at the moment (pretty shitty start ngl). It wasn't like that before.
+World Roann is a world abandoned by many ancient gods and that is why you can see all kind of things happening, even right at the moment (pretty shitty start ngl). Of course It wasn't like that before.
 
 x
 x The thing before, with the start of magic.....
 x
 
-For the mini explanation, lets start with with great union age(200 bsmga[^1]), where first kinds of trades between other kingdoms or territories were finally made possible.
-The next 200 years were more of a settling down for the main and ruling kingdoms. Until Magic was slowly spreading even to small villages. Before, it was thought only to picked / noble people and for commoners was practically a taboo. Magic for healing, hunting and for chores / "small magic" was especially popular. The golden years were around the time where also the new [[Calendar]] was getting popular and so, after the year -+ 20 asmga the education also saw a big improvement.
+For the mini explanation, lets start with with great union age(200 b.g.a.[^1]), where first kinds of trades between other kingdoms or territories were finally made possible.
+The next 200 years were more of a settling down for the main and ruling kingdoms. Until Magic was slowly spreading even to small villages. Before, it was thought only to picked / noble people and for commoners was practically a taboo. Magic for healing, hunting and for chores / "small magic" was especially popular. The golden years were around the time where also the new [[Miric Calendar]] was getting popular and so, after the year 3 a.g.a. the education also saw a big improvement.
 With [[Factions]] like [[Iremorth Kingdom]], [[Tynead Kingdom]] and [[Kaspion Empire]] allowing the marketing with books with commoners and opening more and more schools to the lesser people, while also building more.
 But of course, nothing comes free. As Magic was the highest priority all other things were more and more overshadowed. The believes and their Gods were slowly replaced with heroes of wars or just forgotten all together, because of the newer generations.
 x    -    more like The gods ideals weren't the same as the people of Roann anymore. (could implement this that the gods haven't had some fun in a while)
@@ -19,7 +19,7 @@ The asteroid/[[THE Rift]]
 x
 And this takes us to current year 1295.
 
-[^1]: bsmga stands for Before the Start of the Magic Golden Age
+[^1]: bsmga stands for Before the Golden Age
 
 
 ## Major connections
