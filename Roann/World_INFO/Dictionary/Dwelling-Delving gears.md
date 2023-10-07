@@ -1,0 +1,1 @@
+Used in the [[Deep hole]] for climbing and rappelling. The newer generation is powered by magic crystals.
