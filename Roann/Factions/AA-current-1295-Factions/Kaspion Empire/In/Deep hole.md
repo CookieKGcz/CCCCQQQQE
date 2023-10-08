@@ -21,28 +21,30 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- The [[Sun Lupines]] are present, which its lianas are more thicker and more in quantity deeper you go.
 	- The later stages are covered with [[Mutated Lily pads]] and the humidity is reaching almost unbreathable highs.
 	- ![[2fe30de9e79265a7b26cbe00f8ec9372.jpg | 200]]
+	- A document of approval from the [[Buraeu of Central Kaspion]] is necessary to enter 3rd layer.
 	- + ~14+108 km of depth (total to the 2nd 252km)
 	- Cr(3-7)
-	- Safehouses - 231
+	- Safehouses - 212 + 19 official checking points.
 - ### 3rd layer
-	- A document of approval from the [[Buraeu of Central Kaspion]] is necessary.
-	- In the narrow part the temperature is very high -> rank 2 gear.
+	- Entrance: This point is the limit for normal people. The Hole might have some abundance of mana, which helps with the pressure, but from here on out it is not spread in all places. 
+	- The only source of light are natural mana crystals and some vegetation. For the type of vegetation, it is similar to a jungle. Trees, vines, aaand a lot of creatures that are going to be hostile if enraged.
+	- The roots from the giant vegetation are then the middle part of this layer. Blocks of hardened dirt and stone are clumped on the roots like mini islands that into the later stages are large scaled and in quantity. 
 	- Cr(5-8)
-	- Safehouses - 57 + 6 official buildings for checking.
+	- Safehouses - 168
 - ### 4th layer
-	- Entrance: This point is the limit for normal people. The Hole might have some abundance of mana, which helps with the pressure, but not this much. 
-	- The only source of light are natural mana crystals and some flowers.
-	- For the type of vegetation, it is similar to a jungle. Trees, vines, and a lot of creatures that are going to be hostile if enraged.
-	- For the lower stages - Beware of the mud. It is deep.
-	- Somewhere between 85 km of depth.
+	- //CHANGE THE IMAGE WITH MORE CHAOTIC MINI CAVES//
+	- Beware of the mud. It is deep. :)
+	- In comparison to the whole D.H. this is a clump of small caves 1-4 km in width going about 85 km down.
+	- The main characterization of this layer is the material that is the most abundant, which is mud. Deep, hard-travelable terrain, that is infested with all kinds of small creatures.
 	- Cr(5-9)
 	- Safehouses - 43
 - ### 5th layer
 	- This is the first part of the "twist". You are practically going between 30 to 60 degrees down the whole time. Also the whole time you are checking the walls and ceiling (where you pretty much see nothing) for things that could kill you.
-	- From this point on it is recommended to bring a party and be efficient and experienced with killing creatures.
-	- Also the ceiling being covered with vines which are also hanging from it doesn't really help.
+	- From this point on it is recommended to bring a party and be efficient and experienced with killing creatures. Also the ceiling being covered with vines which are also hanging from it doesn't really help.
+	- //Veg - forest ? //
+	- There is also a town stationed at the entrance of the twist, so little safe-spot after a long while. // name of the town //
 	- Cr(6-10)
-	- Safehouses - 28
+	- Safehouses - 28 + 1 town
 - ### 6th layer
 	- Now halfway through the twist the atmosphere changes. From Jungle you are going to crystalline cave.
 	- Crazy sharp crystalline cave to be exact. So be worry of the environment itself, because if you fall just a few meters there is almost guaranteed chance that you are going to be impaled, sliced open or minimally in the need of a healer.
