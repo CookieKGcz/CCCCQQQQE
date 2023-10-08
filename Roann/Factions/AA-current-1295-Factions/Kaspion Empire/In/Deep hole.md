@@ -4,26 +4,29 @@
 - Majority of the population are Dwarfs.
 - On top diameter is around 90 km (15px).
 - Depth is unknown, because of the 13th layer.
+- [[Dwelling-Delving gears]] (used for descend, climb and other things) are necessary if you will climb below 2st layer, without a permit.
 ## The Hole
 For probably 3000 years it has been called for the local folk just the hole. XXX
 
 ## Layers
 The whole depth is so outstanding that after going deeper and deeper the miners, researchers and other insane people that go there created sections for it.
 - ### 1st layer
-	- Stretching the first 60 km under. The first kilometer has even pubs and houses as only flying creatures are living here. Most of the walls are from stone and minerals are rarely discovered.
+	- Stretching the first 130 km under. The first kilometer has even pubs and houses as only flying creatures are living here. Most of the walls are from stone and minerals are rarely discovered.
 	- This part is quite calm. The [[Dwelling-Delving gears]] will make the job relatively easy.
-	- Cr(2-4)
+	- Cr(2-5)
 	- Safehouses - a lot
 - ### 2nd layer
-	- About the same as the 1st but less light, more creatures, more slippery, less known tracks and overall just more difficult
+	- 2nd layer has 2 parts. The first is the whole abyss narrowing to just about 29 km of width and then the second where it goes down almost 90 degrees.
+	- The start is about the same as the 1st layer but less light, more creatures, more slippery, less known tracks and overall just more difficult.
 	- The [[Sun Lupines]] are present, which its lianas are more thicker and more in quantity deeper you go.
-	- + ~70 km of depth
-	- Cr(3-5)
+	- The later stages are covered with [[Mutated Lily pads]] and the humidity is reaching almost unbreathable highs.
+	- ![[2fe30de9e79265a7b26cbe00f8ec9372.jpg | 200]]
+	- + ~14+108 km of depth (total to the 2nd 252km)
+	- Cr(3-7)
 	- Safehouses - 231
 - ### 3rd layer
-	- 3rd layer has 2 parts. The first is the whole abyss narrowing to just about 29 km and then the second where is goes down almost 90 degrees.
-	- A document of approval from the [[Buraeu of Central Kaspion]].
-	- + ~14+108 km of depth (total to the 3rd 252km)
+	- A document of approval from the [[Buraeu of Central Kaspion]] is necessary.
+	- In the narrow part the temperature is very high -> rank 2 gear.
 	- Cr(5-8)
 	- Safehouses - 57 + 6 official buildings for checking.
 - ### 4th layer
@@ -46,12 +49,13 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- Cr(8-11)
 	- Safehouses - 7 + 5 before the entrance to the 7th layer
 - ### 7th layer
-	- XX
-	- Obsidian, kilometers long tubes in a complex web.
-	- [[Night gear]] is a must, as there is not a single shred of light present.
+	- Entering with [[Dwelling-Delving gears]] below rank 5 is prohibited by [[Buraeu of Central Kaspion]] without a rank 5 certification.
+	- This cave has obsidian, kilometers long tubes in a complex web inside of it. 
+	- The gear for this layer is one of the special ones, so read before going in.
+	- #Night-gear
 	- This floor is also known for the multiple false entrances, and the "skip", which is basically skipping the 8th layer through a single tunnel.
 	- Cr(9-13)
-	- ![[829be2499f140af1db458fcff2938f21.jpg]] but a lot more dark and gargantuan 
+	- ![[829be2499f140af1db458fcff2938f21.jpg | 200]]  but a lot more dark and gargantuan 
 - ### 8th layer
 	- A tricky/easy, but long. (slow, because of not making a sound. Silance spell is a must)
 	- X
