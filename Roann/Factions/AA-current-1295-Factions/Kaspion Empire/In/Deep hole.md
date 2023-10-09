@@ -7,13 +7,16 @@
 - [[Dwelling-Delving gears]] (used for descend, climb and other things) are necessary if you will climb below 2st layer, without a permit.
 ## The Hole
 For probably 3000 years it has been called for the local folk just the hole. XXX
+### Safehouses - [[Safehouses of the Kaspions Hole]]
+Aside from making money by gathering rare materials, fauna and other pricy things, there is also the alternative of building a safehouse. But don't be too hasty, even one safehouse can take multiple expeditions, so research before hurrying in. (more in the link)
 
 ## Layers
 The whole depth is so outstanding that after going deeper and deeper the miners, researchers and other insane people that go there created sections for it.
 - ### 1st layer
 	- Stretching the first 130 km under. The first kilometer has even pubs and houses as only flying creatures are living here. Most of the walls are from stone and minerals are rarely discovered.
 	- This part is quite calm. The [[Dwelling-Delving gears]] will make the job relatively easy.
-	- Cr(2-5)
+	- Cr(2-5) - #todo 
+	- Rare materials found: [[Mitrite]], [[Seiryt]], [[Allanite]], 
 	- Safehouses - a lot
 - ### 2nd layer
 	- 2nd layer has 2 parts. The first is the whole abyss narrowing to just about 29 km of width and then the second where it goes down almost 90 degrees.
@@ -23,59 +26,87 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- ![[2fe30de9e79265a7b26cbe00f8ec9372.jpg | 200]]
 	- A document of approval from the [[Buraeu of Central Kaspion]] is necessary to enter 3rd layer.
 	- + ~14+108 km of depth (total to the 2nd 252km)
-	- Cr(3-7)
+	- Cr(3-7) - #todo 
+	- Rare materials found: #todo 
 	- Safehouses - 212 + 19 official checking points.
 - ### 3rd layer
 	- Entrance: This point is the limit for normal people. The Hole might have some abundance of mana, which helps with the pressure, but from here on out it is not spread in all places. 
-	- The only source of light are natural mana crystals and some vegetation. For the type of vegetation, it is similar to a jungle. Trees, vines, aaand a lot of creatures that are going to be hostile if enraged.
-	- The roots from the giant vegetation are then the middle part of this layer. Blocks of hardened dirt and stone are clumped on the roots like mini islands that into the later stages are large scaled and in quantity. 
-	- Cr(5-8)
+	- The main source of light are natural mana crystals and some vegetation. For the type of vegetation, it is similar to a jungle. Trees, vines, aaand a lot of creatures that are going to be hostile if enraged.
+	- The roots from the giant vegetation are then the middle part of this layer. Blocks of hardened dirt and stone are clumped on the roots like mini islands that into the later stages are large scaled and in more quantity. 
+	- Cr(5-8) - #todo 
+	- Rare materials found: #todo 
 	- Safehouses - 168
 - ### 4th layer
-	- //CHANGE THE IMAGE WITH MORE CHAOTIC MINI CAVES//
+	- //CHANGE THE IMAGE WITH MORE CHAOTIC MINI CAVES // DONE B) // //
 	- Beware of the mud. It is deep. :)
 	- In comparison to the whole D.H. this is a clump of small caves 1-4 km in width going about 85 km down.
 	- The main characterization of this layer is the material that is the most abundant, which is mud. Deep, hard-travelable terrain, that is infested with all kinds of small creatures.
-	- Cr(5-9)
+	- Cr(5-9) - #todo 
+	- Rare materials found: #todo 
 	- Safehouses - 43
 - ### 5th layer
 	- This is the first part of the "twist". You are practically going between 30 to 60 degrees down the whole time. Also the whole time you are checking the walls and ceiling (where you pretty much see nothing) for things that could kill you.
 	- From this point on it is recommended to bring a party and be efficient and experienced with killing creatures. Also the ceiling being covered with vines which are also hanging from it doesn't really help.
+	- Also the temperatures are hotter and hotter so in this and the upcoming layers you will have to pre-sense the hotter areas and the colder where it is safe to move. (Bigger parties have a wizard (or multiple) specifically monitoring these mana-sensitive topics)
 	- //Veg - forest ? //
-	- There is also a town stationed at the entrance of the twist, so little safe-spot after a long while. // name of the town //
-	- Cr(6-10)
+	- There is also a town stationed at the entrance of the twist, so little safe-spot after a long while. // name of the town #todo //
+	- Cr(6-10) - #todo 
+	- Rare materials found: #todo 
 	- Safehouses - 28 + 1 town
 - ### 6th layer
 	- Now halfway through the twist the atmosphere changes. From Jungle you are going to crystalline cave.
 	- Crazy sharp crystalline cave to be exact. So be worry of the environment itself, because if you fall just a few meters there is almost guaranteed chance that you are going to be impaled, sliced open or minimally in the need of a healer.
-	- Cr(8-11)
+	- Heat++, Oxygen--, thicker atmosphere.
+	- Cr(8-11) - #todo 
+	- Rare materials found: #todo 
 	- Safehouses - 7 + 5 before the entrance to the 7th layer
 - ### 7th layer
 	- Entering with [[Dwelling-Delving gears]] below rank 5 is prohibited by [[Buraeu of Central Kaspion]] without a rank 5 certification.
 	- This cave has obsidian, kilometers long tubes in a complex web inside of it. 
 	- The gear for this layer is one of the special ones, so read before going in.
 	- #Night-gear
-	- This floor is also known for the multiple false entrances, and the "skip", which is basically skipping the 8th layer through a single tunnel.
-	- Cr(9-13)
-	- ![[829be2499f140af1db458fcff2938f21.jpg | 200]]  but a lot more dark and gargantuan 
+	- This floor is also known for the multiple false entrances, and the "skip", which is basically skipping the 8th layer through a single long tunnel.
+	- Cr(9-13) - #todo 
+	- ![[829be2499f140af1db458fcff2938f21.jpg | 200]]  but a lot more dark and gargantuan
+	- Rare materials found: #todo 
+	- Safehouses: 5
 - ### 8th layer
 	- A tricky/easy, but long. (slow, because of not making a sound. Silance spell is a must)
 	- X
 	- X
-	- X
+	- Cr(11-14) - #todo 
+	- Rare materials found: #todo 
+	- Safehouses: #todo 
 - ### 9th layer
-	- sand
+	- 9th layer can be one of the peaceful layers or one where you can easily die. 
+	- For the appearance - it is basically the something that you would find in a canyon, but because of the poor gravity sand from the sandstones is everywhere. The deeper you go the sand is whiter and hotter. Some places are under so much heat that portions of the sand turns into glass. 
+	- Cr(5-15) - #todo 
+	- ![[wallhaven-nmmkgy.jpg | 300]]
+	- Rare materials found: #todo 
+	- Safehouses: #todo 
 - ### 10th layer
-	- pillars 
+	- pillars
+	- Cr(none)
+	- Rare materials found: #todo 
+	- Safehouses: #todo 
 - ### 11th layer
 	- worm tracks
+	- Cr(11-17) - #todo 
+	- Rare materials found: #todo 
+	- Safehouses: #todo 
 - ### 12th layer
 	- hot?
+	- Cr(14-20) - #todo 
+	- Rare materials found: #todo 
+	- Safehouses: #todo 
 - ### 13th layer
 	- Those who returned to tell the tail are less then 100. There are only 87 documented returnee for the last 2000 years.
 	- Those who then documented their findings said that there is only void or bottomless abyss out there. Most probably filled with horrors too.
+	- Cr(unconfirmed)
+	- Rare materials found: #todo 
+	- Safehouses: 0.5
 - ### 14th layer
 	- ???
-	- 
+	- 14th layer is only a speculation.
 
-![[DeepHoleColors2.png]]
+![[DeepHoleColors2.png | 400]]

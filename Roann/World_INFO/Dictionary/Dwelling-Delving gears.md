@@ -19,9 +19,12 @@ The rank of the gear depends on what layer it is going to used on
 	- And the whole gear is supported with more armor.
 	- Cost is around 10'000 gold, but if artifacts are rented then around 3000 + rent.
 - ### Rank 4 (6st l.)
-	- WIP
+	- All things that are on rank 1-2
+	- More of a tools upgrade. Mainly for protection.
+	- #todo
 - ### Rank 5 (7th -  l.)
 	- WIP
+	- #todo
 
 
 [^1] An anchor is the starting point of a descend and is created by hammering a pole from [[Asrof wood]] into the ground for about 10 meters. The "Silk thread"[^2] is then bound to it.
