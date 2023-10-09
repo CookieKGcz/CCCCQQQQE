@@ -78,4 +78,4 @@ The whole depth is so outstanding that after going deeper and deeper the miners,
 	- ???
 	- 
 
-![[DeepHoleColors.png]]
+![[DeepHoleColors2.png]]
